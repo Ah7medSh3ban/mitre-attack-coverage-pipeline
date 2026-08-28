@@ -1,0 +1,24 @@
+# ATT&CK STIX bundle (large — download with get_attack_enterprise.py)
+enterprise-attack.json
+**/enterprise-attack.json
+group_layers/
+output/
+
+# Artefact written by test_random.py at runtime
+20260809/_mirror_expanded.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
